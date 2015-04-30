@@ -1,0 +1,5 @@
+klibsvm is a simple, easy-to-use wrapper of libsvm. 
+For more detail or advanced usage of libsvm, please refer to below URL:
+http://www.csie.ntu.edu.tw/~cjlin/libsvm
+
+This wrapper pvovides you a simple way to leverage libsvm.jar and use it as a library.
